@@ -137,7 +137,12 @@ footer {
   border-bottom: 1px solid #ffffff;
 }
 
-.maindownloading {
+.more #ine {
+  width: 176px;
+  height: 40px;
+}
+
+.more .maindownloading {
   height: 120px;
   display: flex;
   justify-content: center;
