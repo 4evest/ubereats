@@ -187,18 +187,3 @@ footer {
   flex-wrap: wrap;
   height: 93px;
 }
-
-.btn-up {
-  position: fixed;
-  bottom: 24px;
-  right: 16px;
-  width: 80px;
-  height: 80px;
-}
-
-@media screen and (max-width: 767px) {
-  .btn-up {
-    width: 64px;
-    height: 64px;
-  }
-}
